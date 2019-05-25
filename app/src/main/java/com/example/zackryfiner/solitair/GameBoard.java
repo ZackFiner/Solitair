@@ -4,5 +4,6 @@ public class GameBoard {
     public Stack<Card>[] boardCards;
     public GameBoard()
     {
+
     }
 }
