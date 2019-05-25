@@ -27,4 +27,6 @@ public class GameEngine {
      *  RULE-6: You can only move the topmost card of the ace stack back onto the board, and it must
      *  follow the same rules state in RULE-1
      */
+    private SessionInfo currentSession;
+
 }
